@@ -1,0 +1,22 @@
+{
+    "report_title": "Monthly Office Spending",
+    "currency": "USD",
+    "expenses": [
+        {
+            "item": "High-speed Internet",
+            "amount": 250
+        },
+        {
+            "item": "Coffee & Snacks",
+            "amount": 400
+        },
+        {
+            "item": "Software Subscriptions",
+            "amount": 1200
+        },
+        {
+            "item": "Office Electricity",
+            "amount": 350
+        }
+    ]
+}

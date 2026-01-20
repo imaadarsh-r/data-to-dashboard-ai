@@ -1,0 +1,202 @@
+{
+    "dashboard_title": "E-Commerce Analytics - Weekly Report",
+    "week": "Week 3, January 2026",
+    "store_name": "StyleHub Fashion",
+    "overview": {
+        "total_sales": 156780,
+        "total_orders": 892,
+        "unique_visitors": 45678,
+        "conversion_rate": 1.95,
+        "average_cart_value": 175.76
+    },
+    "daily_sales": [
+        {
+            "day": "Monday",
+            "sales": 18450,
+            "orders": 105,
+            "visitors": 5234
+        },
+        {
+            "day": "Tuesday",
+            "sales": 21230,
+            "orders": 121,
+            "visitors": 6123
+        },
+        {
+            "day": "Wednesday",
+            "sales": 19870,
+            "orders": 113,
+            "visitors": 5789
+        },
+        {
+            "day": "Thursday",
+            "sales": 23450,
+            "orders": 134,
+            "visitors": 6891
+        },
+        {
+            "day": "Friday",
+            "sales": 28900,
+            "orders": 165,
+            "visitors": 8234
+        },
+        {
+            "day": "Saturday",
+            "sales": 31200,
+            "orders": 178,
+            "visitors": 9012
+        },
+        {
+            "day": "Sunday",
+            "sales": 13680,
+            "orders": 76,
+            "visitors": 4395
+        }
+    ],
+    "category_performance": [
+        {
+            "category": "Women's Clothing",
+            "sales": 62712,
+            "items_sold": 423,
+            "return_rate": 8.2
+        },
+        {
+            "category": "Men's Clothing",
+            "sales": 47034,
+            "items_sold": 318,
+            "return_rate": 5.7
+        },
+        {
+            "category": "Accessories",
+            "sales": 28257,
+            "items_sold": 567,
+            "return_rate": 3.1
+        },
+        {
+            "category": "Footwear",
+            "sales": 18777,
+            "items_sold": 145,
+            "return_rate": 12.4
+        }
+    ],
+    "top_selling_items": [
+        {
+            "product": "Classic Denim Jacket",
+            "sku": "WJ-2024",
+            "units": 89,
+            "revenue": 8010
+        },
+        {
+            "product": "Leather Crossbody Bag",
+            "sku": "AC-5671",
+            "units": 134,
+            "revenue": 10720
+        },
+        {
+            "product": "Running Sneakers Pro",
+            "sku": "FS-8923",
+            "units": 67,
+            "revenue": 8040
+        },
+        {
+            "product": "Slim Fit Chinos",
+            "sku": "MP-3456",
+            "units": 112,
+            "revenue": 6720
+        },
+        {
+            "product": "Wool Blend Coat",
+            "sku": "WC-7812",
+            "units": 45,
+            "revenue": 13500
+        }
+    ],
+    "traffic_sources": [
+        {
+            "source": "Organic Search",
+            "visitors": 18271,
+            "orders": 356,
+            "revenue": 62748
+        },
+        {
+            "source": "Social Media",
+            "visitors": 12345,
+            "orders": 267,
+            "revenue": 46893
+        },
+        {
+            "source": "Direct",
+            "visitors": 8901,
+            "orders": 178,
+            "revenue": 31246
+        },
+        {
+            "source": "Email Campaign",
+            "visitors": 4567,
+            "orders": 67,
+            "revenue": 11759
+        },
+        {
+            "source": "Paid Ads",
+            "visitors": 1594,
+            "orders": 24,
+            "revenue": 4134
+        }
+    ],
+    "customer_demographics": {
+        "age_groups": [
+            {
+                "range": "18-24",
+                "percentage": 23,
+                "avg_spend": 142.50
+            },
+            {
+                "range": "25-34",
+                "percentage": 38,
+                "avg_spend": 198.75
+            },
+            {
+                "range": "35-44",
+                "percentage": 22,
+                "avg_spend": 215.30
+            },
+            {
+                "range": "45-54",
+                "percentage": 12,
+                "avg_spend": 187.90
+            },
+            {
+                "range": "55+",
+                "percentage": 5,
+                "avg_spend": 156.20
+            }
+        ],
+        "top_locations": [
+            {
+                "city": "New York",
+                "orders": 156,
+                "revenue": 27384
+            },
+            {
+                "city": "Los Angeles",
+                "orders": 134,
+                "revenue": 23562
+            },
+            {
+                "city": "Chicago",
+                "orders": 98,
+                "revenue": 17234
+            },
+            {
+                "city": "Houston",
+                "orders": 87,
+                "revenue": 15291
+            },
+            {
+                "city": "Miami",
+                "orders": 76,
+                "revenue": 13356
+            }
+        ]
+    }
+}

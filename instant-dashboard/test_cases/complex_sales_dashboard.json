@@ -1,0 +1,120 @@
+{
+    "report_title": "Q4 2025 Sales Performance Dashboard",
+    "company": "TechCorp Solutions",
+    "period": "October - December 2025",
+    "currency": "USD",
+    "summary": {
+        "total_revenue": 2847500,
+        "total_orders": 1247,
+        "average_order_value": 2283.24,
+        "growth_rate": 23.5
+    },
+    "regional_performance": [
+        {
+            "region": "North America",
+            "revenue": 1245000,
+            "orders": 542,
+            "top_product": "Enterprise Suite Pro",
+            "growth": 18.2
+        },
+        {
+            "region": "Europe",
+            "revenue": 892500,
+            "orders": 387,
+            "top_product": "Cloud Analytics Platform",
+            "growth": 31.4
+        },
+        {
+            "region": "Asia Pacific",
+            "revenue": 567000,
+            "orders": 245,
+            "top_product": "Mobile SDK Premium",
+            "growth": 45.7
+        },
+        {
+            "region": "Latin America",
+            "revenue": 143000,
+            "orders": 73,
+            "top_product": "Starter Package",
+            "growth": 12.3
+        }
+    ],
+    "top_products": [
+        {
+            "name": "Enterprise Suite Pro",
+            "units_sold": 234,
+            "revenue": 1053000,
+            "category": "Software"
+        },
+        {
+            "name": "Cloud Analytics Platform",
+            "units_sold": 189,
+            "revenue": 756000,
+            "category": "SaaS"
+        },
+        {
+            "name": "Mobile SDK Premium",
+            "units_sold": 412,
+            "revenue": 618000,
+            "category": "Development Tools"
+        },
+        {
+            "name": "AI Integration Module",
+            "units_sold": 156,
+            "revenue": 280800,
+            "category": "Add-on"
+        },
+        {
+            "name": "Starter Package",
+            "units_sold": 256,
+            "revenue": 139700,
+            "category": "Software"
+        }
+    ],
+    "monthly_breakdown": [
+        {
+            "month": "October",
+            "revenue": 892000,
+            "orders": 398,
+            "new_customers": 127
+        },
+        {
+            "month": "November",
+            "revenue": 945000,
+            "orders": 421,
+            "new_customers": 145
+        },
+        {
+            "month": "December",
+            "revenue": 1010500,
+            "orders": 428,
+            "new_customers": 163
+        }
+    ],
+    "customer_segments": [
+        {
+            "segment": "Enterprise",
+            "count": 89,
+            "revenue": 1567000,
+            "percentage": 55.0
+        },
+        {
+            "segment": "Mid-Market",
+            "count": 234,
+            "revenue": 854250,
+            "percentage": 30.0
+        },
+        {
+            "segment": "Small Business",
+            "count": 567,
+            "revenue": 426250,
+            "percentage": 15.0
+        }
+    ],
+    "key_metrics": {
+        "customer_satisfaction": 4.7,
+        "net_promoter_score": 68,
+        "churn_rate": 2.3,
+        "customer_lifetime_value": 12450
+    }
+}
